@@ -1,12 +1,12 @@
 ## DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection
 
-This repository contains the precomputed saliency maps for 12 widely-used saliency datasets, including ECSSD, DUT-OMRON, DUTS-TE, HKU-IS, SOD, THUR15K, Judd, MSRA-B, MSRA10K, PASCALS, SED1, and SED2.
+This repository contains the precomputed saliency maps for **12 widely-used saliency datasets**, including ECSSD, DUT-OMRON, DUTS-TE, HKU-IS, SOD, THUR15K, Judd, MSRA-B, MSRA10K, PASCALS, SED1, and SED2.
 
 Note that if a compressed file is larger than 100 Mb, we divided it into two files.
 
 Since the code is implemented in Caffe which is outdated now (the reviewing process lasts for about two years), we don't provided the code.
 
-Welcome to compare with our method!
+**Welcome to compare with our method!**
 
 ### Citations
 

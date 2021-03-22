@@ -1,4 +1,4 @@
-## DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection
+## [DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection](https://ieeexplore.ieee.org/document/9345433)
 
 This repository contains the precomputed saliency maps of DNA (IEEE TCYB) for **12 widely-used saliency datasets**, including ECSSD, DUT-OMRON, DUTS-TE, HKU-IS, SOD, THUR15K, Judd, MSRA-B, MSRA10K, PASCALS, SED1, and SED2.
 

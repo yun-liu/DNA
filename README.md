@@ -14,6 +14,9 @@ Since the code is implemented in Caffe which is outdated now (the reviewing proc
       title={{DNA}: Deeply Supervised Nonlinear Aggregation for Salient Object Detection},
       author={Liu, Yun and Cheng, Ming-Ming and Zhang, Xin-Yu and Nie, Guang-Yu and Wang, Meng},
       journal={IEEE Transactions on Cybernetics},
-      year={2021},
+      volume={52},
+      number={7},
+      pages={6131--6142},
+      year={2022},
       publisher={IEEE}
     }

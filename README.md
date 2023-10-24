@@ -8,7 +8,7 @@ Since the code is implemented in Caffe which is outdated now (the reviewing proc
 
 **Welcome to compare with our method!**
 
-### Citations
+### Citation
 
     @article{liu2021dna,
       title={{DNA}: Deeply Supervised Nonlinear Aggregation for Salient Object Detection},
